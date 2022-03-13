@@ -1,0 +1,15 @@
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\MainWindow.g.cs
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\App.g.cs
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3_MarkupCompile.cache
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3_MarkupCompile.lref
+C:\Users\Egor\Desktop\LABS\3\3\bin\Debug\3.exe.config
+C:\Users\Egor\Desktop\LABS\3\3\bin\Debug\3.exe
+C:\Users\Egor\Desktop\LABS\3\3\bin\Debug\3.pdb
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\MainWindow.baml
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3.g.resources
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3.exe
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3.pdb
+C:\Users\Egor\Desktop\LABS\3\3\obj\Debug\3.csprojAssemblyReference.cache

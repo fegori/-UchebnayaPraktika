@@ -1,0 +1,13 @@
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\1.exe.config
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\1.exe
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\1.pdb
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\EntityFramework.dll
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\EntityFramework.xml
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Egor\Desktop\LABS\1\1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Egor\Desktop\LABS\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\Egor\Desktop\LABS\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\LABS\1\1\obj\Debug\1.csproj.CopyComplete
+C:\Users\Egor\Desktop\LABS\1\1\obj\Debug\1.exe
+C:\Users\Egor\Desktop\LABS\1\1\obj\Debug\1.pdb
